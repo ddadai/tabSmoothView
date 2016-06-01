@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="testItem">
+        <item >1</item>
+        <item >dssdsadasdada</item>
+        <item >2</item>
+        <item >abcabc</item>
+        <item >abcdsadasabc</item>
+        <item >abcabc</item>
+        <item >abcabc</item>
+        <item >abcabc</item>
+        <item >abcabc</item>
+        <item >abcabc</item>
+        <item >abcabc</item>
+        <item >abcabc</item>
+    </string-array>
+</resources>
